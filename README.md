@@ -38,3 +38,9 @@ A future release will make the card texts editable markdown - for now we are usi
 
 
 ## License
+
+This is an unofficial, fan-made playset for Fiasco. Bully Pulpit Games is in no way affiliated with its content. 
+For more information, see https://bullypulpitgames.com/games/fiasco/license/
+FIASCO™, the FIASCO™ logo are trademarks of Bully Pulpit Games LLC. All rights reserved.
+
+This playset has been created and licensed under the terms of the FIASCO™ DIY license which can be found at https://bullypulpitgames.com/pages/fiasco-diy-license
