@@ -7,7 +7,7 @@ Perhaps this will help you stop such a thing in real life.
 This game was developed as part of the “Educating Engineers for Safe AI” workshop series, funded by the Alan Turing Institute, 
 the UK’s National Institute for Data Science and AI.
 
-The core rules for Fiasco can be purchased here, as either a physical or print-and-play digital version. 
+The core rules for Fiasco can be purchased [here](https://bullypulpitgames.com/products/fiasco), as either a physical or print-and-play digital version. 
 You’ll need a copy of those and the cards here to play the game. It’s best played with 3-5 colleagues - and ideally, 
 some of those are not yet thinking about the safety and ethical risks of AI deeply enough - they will when they’ve experienced this fiAIsco!
 
